@@ -1,0 +1,1 @@
+This is a simple toy example that uses libsvm as a backend to illustrat how SVMs can be  applied in OCR. It trains a SVM and then use it to recognise "0" from "1".
